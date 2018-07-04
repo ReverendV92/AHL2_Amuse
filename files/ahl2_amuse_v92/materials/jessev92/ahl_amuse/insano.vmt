@@ -1,0 +1,23 @@
+
+unlitgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/insano_d
+	$bumpmap dev/bump_normal
+	$surfaceprop glass
+
+	proxies
+	{
+
+		texturescroll
+		{
+
+			texturescrollvar $baseTextureTransform
+			texturescrollrate 0.15
+			texturescrollangle 180
+
+		}	
+
+	}
+
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"ahl_amuse/flowers"
+	"$surfaceprop" "dirt"
+	"%detailtype" "amuse_flowers"
+}

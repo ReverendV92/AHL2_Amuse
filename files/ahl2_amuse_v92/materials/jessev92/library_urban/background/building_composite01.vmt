@@ -1,0 +1,11 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/background/building_composite01_d
+	$surfaceprop concrete
+
+	$selfillum 1
+	$selfillummask jessev92/library_urban/background/building_composite01_i
+
+}

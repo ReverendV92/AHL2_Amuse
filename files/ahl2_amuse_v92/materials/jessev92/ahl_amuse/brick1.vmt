@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/brick1_d
+	$bumpmap jessev92/ahl_amuse/brick1_b
+	$surfaceprop concrete
+
+	$detail overlays/macro01a
+	$detailscale 4
+	$detailblendfactor 1
+	$detailblendmode 0
+
+}

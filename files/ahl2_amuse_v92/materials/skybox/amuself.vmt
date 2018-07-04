@@ -1,0 +1,11 @@
+
+sky
+{
+
+	$hdrbasetexture skybox/amusehdrlf
+	$basetexture skybox/amuself
+	$ignorez 1
+	$nofog 1
+	$nomip 1
+
+}

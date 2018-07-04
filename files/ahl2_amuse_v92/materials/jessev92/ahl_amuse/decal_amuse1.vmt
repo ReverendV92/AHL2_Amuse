@@ -1,0 +1,12 @@
+
+unlitgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/decal_amuse1_d
+	
+	$decal 1
+	$decalscale 0.45
+	$translucent 1
+	%keywords decal
+
+}

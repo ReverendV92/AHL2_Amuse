@@ -1,0 +1,12 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/sign_random1_d
+	$bumpmap dev/bump_normal
+	$surfaceprop glass
+	
+	$selfillum 1
+	$selfillummask jessev92/ahl_amuse/sign_random1_i
+
+}

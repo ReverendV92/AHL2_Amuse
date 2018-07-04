@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/roof02_d
+	$bumpmap jessev92/library_urban/roof02_b
+	$surfaceprop concrete
+	
+	$detail jessev92/library_urban/detail_scratches
+	$detailscale 0.25
+	$detailblendfactor 1
+	$detailblendmode 0 
+
+}

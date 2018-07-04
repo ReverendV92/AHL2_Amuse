@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/jessev92/props_amuse/carousel_d
+	$bumpmap models/jessev92/props_amuse/carousel_b
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	// $nodecal 1
+
+	$selfillum 1
+	$selfillummask models/jessev92/props_amuse/carousel_i
+	
+	$phong 1
+	$phongexponenttexture models/jessev92/props_amuse/carouselhorse_x
+	
+	// $detail models/jessev92/props_amuse/flag_dt
+	// $detailscale 1
+	// $detailblendfactor 0.7
+	// $detailblendmode 1
+
+}

@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/woodenwall1_d
+	$bumpmap dev/bump_normal
+	$surfaceprop wood
+
+	$detail overlays/macro01a
+	$detailscale 4
+	$detailblendfactor 1
+	$detailblendmode 0
+
+}

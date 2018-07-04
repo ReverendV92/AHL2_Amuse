@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"Library_urban/floor02"
+	"$surfaceprop" "wood"
+$detail "overlays/macro01a"
+$detailscale 0.25
+$detailblendfactor 1
+$detailblendmode 0 
+}

@@ -1,0 +1,12 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/decal_manhole
+
+	$decal 1
+	$decalscale 0.25
+	%keywords "decal, ahl2, amuse, amusement, manhole"
+	$translucent 1
+
+}

@@ -1,0 +1,17 @@
+"unlittwotexture"
+{
+	"$basetexture" 	"ahl_amuse/support1"
+	"$texture2" "ahl_amuse/screen2" 
+	"surfaceprop" "glass"	 
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$baseTextureTransform"
+			"texturescrollrate" 0.25
+			"texturescrollangle" -90
+		}	
+
+	}
+}

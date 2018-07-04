@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+	"$basetexture" 	"ahl_amuse/insano"
+	"surfaceprop" "wood"	
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$baseTextureTransform"
+			"textureScrollRate" "0.15"
+			"textureScrollAngle" "180"
+		}
+	}
+	 
+}

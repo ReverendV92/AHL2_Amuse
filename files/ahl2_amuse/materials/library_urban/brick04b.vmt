@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"Library_urban/brick04b"
+	"$surfaceprop" "brick"
+$detail "overlays/macro01a"
+$detailscale 0.4
+$detailblendfactor 1
+$detailblendmode 0 
+	"$bumpmap" "Library_urban/brick04_normal"
+}

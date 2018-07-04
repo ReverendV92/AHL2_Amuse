@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"Library_urban/decal_manhole"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "decal"
+	"$translucent" 1
+}

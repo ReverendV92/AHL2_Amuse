@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"ahl_amuse/woodenwall2"
+	"$surfaceprop" "wood"
+$detail "overlays/macro01a"
+$detailscale 4
+$detailblendfactor 1
+$detailblendmode 0 
+}

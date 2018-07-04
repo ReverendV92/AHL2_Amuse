@@ -1,0 +1,5 @@
+UnLitGeneric
+{
+	"$basetexture" 	"ahl_amuse/lights"
+	"$alphatest" "1"
+}

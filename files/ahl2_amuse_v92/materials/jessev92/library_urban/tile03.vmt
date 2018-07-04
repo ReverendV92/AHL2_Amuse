@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/tile03_d
+	$bumpmap jessev92/library_urban/tile03_b
+	$surfaceprop concrete
+	
+	$detail overlays/macro01a
+	$detailscale 4
+	$detailblendfactor 1
+	$detailblendmode 0 
+
+}

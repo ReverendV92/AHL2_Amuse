@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/metal02c_d
+	$bumpmap jessev92/library_urban/metal02_b
+	$surfaceprop metalpanel
+	
+	$detail jessev92/library_urban/detail_scratches
+	$detailscale 4
+	$detailblendfactor 1
+	$detailblendmode 0 
+
+}

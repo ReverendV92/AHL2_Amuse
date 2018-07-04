@@ -1,0 +1,247 @@
+// *******************************************************************************
+// ***************** ravenholm *****************
+
+// don't play directly - these 2 are referenced by other soundscapes
+// fuck ravenholm, this is Flesh
+
+"Amuse.outdoor"
+{
+
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"wave"		"ambient/atmosphere/station_ambience_loop2.wav"
+		"pitch"		"60"
+		"attenuation"	"0"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"3, 8"
+		"volume"	"0.35, 1"
+		"pitch"		"50,142"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+
+			"wave"	"ambient/voices/playground_memory.wav"
+		}
+
+	}
+
+
+	"playrandom"
+	{
+		"time"		"4, 8"
+		"volume"	"0.25, 0.55"
+		"pitch"		"75,125"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/levels/canals/windchime2.wav"
+			"wave"	"ambient/levels/canals/windchine1.wav"
+		}
+	}
+}
+
+
+
+"Amuse.Arcade"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"wave"		"ahl_amuse1/warriors.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"3, 8"
+		"volume"	"0.1,1"
+		"pitch"		"50, 150"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/levels/labs/coinslot1.wav"
+			"wave"	"ambient/voices/playground_memory.wav"
+		}
+		
+	}
+
+	"playrandom"
+	{
+		"time"		"3, 6"
+		"volume"	"0.5,1"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/machines/keyboard_slow_1second.wav"
+			"wave"	"ambient/machines/keyboard_fast2_1second.wav"
+			"wave"	"ambient/machines/keyboard_fast1_1second.wav"
+		}
+		
+	}
+
+
+}
+
+
+"Amuse.Mirrors"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"wave"		"ahl_amuse1/amuse1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"8, 15"
+		"volume"	"0.5, 1"
+		"pitch"		"50, 150"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/materials/wood_creak1.wav"
+			"wave"	"ambient/materials/wood_creak5.wav"
+		}
+		
+	}
+
+}
+
+"Amuse.Horror"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"wave"		"ambient/atmosphere/cave_outdoor1.wav"
+		"pitch"		"80"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"5, 8"
+		"volume"	"1,1"
+		"pitch"		"50, 150"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/creatures/town_child_scream1.wav"
+			"wave"	"ambient/levels/streetwar/city_scream3.wav"
+			"wave"	"ambient/voices/f_scream1.wav"
+			"wave"	"ambient/voices/m_scream1.wav"
+		}
+		
+	}
+
+}
+
+"Amuse.Love"
+{
+
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ahl_amuse1/amuse1.wav"
+		"pitch"		"50"
+		"attenuation"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.40"
+		"wave"		"ambient/levels/canals/swamp_frogs_loop2.wav"
+		"pitch"		"75"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"9, 16"
+		"volume"	"0.1,0.3"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/levels/coast/coastbird4.wav"
+			"wave"	"ambient/levels/canals/swamp_bird5.wav"
+			"wave"	"ambient/levels/canals/swamp_bird6.wav"
+			"wave"	"ambient/levels/coast/coastbird4.wav"
+			"wave"	"ambient/levels/coast/coastbird5.wav"
+			"wave"	"ambient/levels/coast/coastbird6.wav"
+			"wave"	"ambient/levels/coast/coastbird7.wav"
+		}
+		
+	}
+
+}
+
+
+"Amuse.Insano"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"wave"		"ahl_amuse1/amuse2.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"5, 8"
+		"volume"	"0.1,0.3"
+		"pitch"		"50,200"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/voices/playground_memory.wav"
+		}
+		
+	}
+
+	"playrandom"
+	{
+		"time"		"3, 8"
+		"volume"	"0.1, 1"
+		"pitch"		"50,200"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/voices/vo/ravenholm/madlaugh04.wav"
+			"wave" "vo/ravenholm/madlaugh02.wav"
+			"wave" "vo/npc/barney/ba_laugh04.wav"
+			"wave" "vo/npc/barney/ba_laugh03.wav"
+			"wave" "vo/npc/barney/ba_laugh02.wav"
+			"wave" "vo/eli_lab/al_laugh02.wav"
+			"wave" "vo/eli_lab/al_laugh01.wav"
+			"wave" "vo/citadel/br_laugh01.wav"
+			"wave" "admin_plugin/laugh.wav"
+		}
+		
+	}
+
+}

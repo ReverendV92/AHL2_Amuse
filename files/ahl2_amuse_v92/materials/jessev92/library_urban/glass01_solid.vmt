@@ -1,0 +1,9 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/glass01_d
+	$bumpmap dev/bump_normal
+	$surfaceprop glass
+
+}

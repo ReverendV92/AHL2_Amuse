@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture" 	"ahl_amuse/decal_amuse1"
+	"$decal" 1
+	"$decalscale" 0.45
+	"%keywords" "decal"
+	"$translucent" 1
+}

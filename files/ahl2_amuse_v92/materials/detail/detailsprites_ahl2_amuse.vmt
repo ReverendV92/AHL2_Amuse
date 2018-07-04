@@ -1,0 +1,13 @@
+
+unlitgeneric
+{
+
+	$basetexture detail/detailsprites_ahl2_amuse
+	
+	$translucent 1
+	$nocull 1
+	$vertexcolor 1
+	$vertexalpha 1
+	$receiveflashlight 1
+
+}

@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/ferris_d
+	$surfaceprop no_decal
+
+	$alphatest 1
+
+}

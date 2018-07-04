@@ -1,0 +1,15 @@
+
+unlitgeneric
+{
+
+	$basetexture models/jessev92/props_amuse/3dbackground
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+	
+	$model 1
+	$alphatest 1
+	$nofog 1
+
+}

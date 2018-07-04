@@ -1,0 +1,11 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/spiderweb1_d
+	$bumpmap dev/bump_normal
+	$surfaceprop no_decal
+	$translucent 1
+	%detailtype re_church
+
+}

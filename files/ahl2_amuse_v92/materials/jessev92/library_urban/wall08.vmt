@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/wall08_d
+	$bumpmap jessev92/library_urban/wall09_b
+	$surfaceprop wood
+
+	$detail jessev92/library_urban/detail_scratches
+	$detailscale 6
+	$detailblendfactor 0.25
+	$detailblendmode 0
+
+}

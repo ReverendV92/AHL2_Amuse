@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/jessev92/props_amuse/balloons_d
+	$bumpmap models/jessev92/props_amuse/balloons_b
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	// $nodecal 1
+
+	// $selfillum 1
+	// $selfillummask models/jessev92/props_amuse/balloons_i
+	
+	$phong 1
+	$phongexponenttexture models/jessev92/props_amuse/balloons_X
+	
+	// $detail models/jessev92/props_amuse/flag_dt
+	// $detailscale 1
+	// $detailblendfactor 0.7
+	// $detailblendmode 1
+
+}

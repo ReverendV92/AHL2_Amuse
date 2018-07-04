@@ -1,0 +1,28 @@
+
+unlittwotexture
+{
+
+	$basetexture jessev92/ahl_amuse/screen1_d
+	$bumpmap dev/bump_normal
+	$surfaceprop glass
+	$nocull 1	
+	$additive 1
+	$no_fullbright 1
+
+	$texture2 jessev92/ahl_amuse/screen3_d
+
+	proxies
+	{
+
+		texturescroll
+		{
+
+			texturescrollvar $texture2transform
+			texturescrollrate 0.25
+			texturescrollangle 270
+
+		}	
+
+	}
+
+}

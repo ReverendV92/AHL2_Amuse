@@ -1,0 +1,16 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/jessev92/props_amuse/bush1
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$alphatest 1
+	$nocull 1
+	$nodecal 1
+
+}

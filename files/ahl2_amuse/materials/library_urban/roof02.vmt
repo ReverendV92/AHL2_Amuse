@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"Library_urban/roof02"
+	"$surfaceprop" "concrete"
+$detail "Library_urban/detail_scratches"
+$detailscale 0.25
+$detailblendfactor 1
+$detailblendmode 0 
+
+
+		"$bumpmap" "Library_urban\roof02_normal"
+}

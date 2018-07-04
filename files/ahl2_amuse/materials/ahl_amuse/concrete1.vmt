@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"ahl_amuse/concrete1"
+	"surfaceprop" "concrete"
+$detail "overlays/macro01a"
+$detailscale 4
+$detailblendfactor 5
+$detailblendmode 0 
+}

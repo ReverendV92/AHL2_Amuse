@@ -1,0 +1,11 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/ahl_amuse/flowers_d
+	$bumpmap dev/bump_normal
+	$surfaceprop dirt
+	
+	%detailtype amuse_flowers
+
+}

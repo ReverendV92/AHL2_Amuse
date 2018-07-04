@@ -1,0 +1,14 @@
+
+lightmappedgeneric
+{
+
+	$basetexture jessev92/library_urban/brick04b_d
+	$bumpmap jessev92/library_urban/brick04_b
+	$surfaceprop brick
+
+	$detail overlays/macro01a
+	$detailscale 0.4
+	$detailblendfactor 1
+	$detailblendmode 0
+
+}

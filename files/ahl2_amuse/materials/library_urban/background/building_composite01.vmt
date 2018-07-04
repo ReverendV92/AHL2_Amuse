@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture" 	"Library_urban/Background/building_composite01"
+	"$surfaceprop" "concrete"
+	"$selfillum" "1"
+}
