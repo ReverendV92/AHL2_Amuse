@@ -1,0 +1,85 @@
+
+
+
+materialPath: E:\Steam\SteamApps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading A:\V92\Source\github\AHL2_Amuse\mapsrc\ahl2_amuse_fix.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in e:\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+Patching WVT material: maps/ahl2_amuse_fix/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2816.0 1536.0 516.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5301: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2424.0 1404.0 88.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5637: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2424.0 1284.0 604.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5637: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2488.0 1536.0 516.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5637: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2936.0 -1283.0 0.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5189: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2696.0 -1797.0 516.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5600: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2360.0 1032.0 604.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5637: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2176.0 1032.0 604.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 5637: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...
