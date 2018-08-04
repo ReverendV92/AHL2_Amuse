@@ -7,7 +7,7 @@ $modelname jessev92/props_amuse/balloons1
 
 $model Balloons balloons1_ref
 
-$lod 120
+$lod 180
 {
 	replacemodel balloons1_ref balloons1_ref_lod1
 	nofacial

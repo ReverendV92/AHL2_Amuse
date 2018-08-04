@@ -1,3 +1,4 @@
+================== VBSP ==================
 
 
 
@@ -82,4 +83,180 @@ Candidate brush IDs: Brush 5637:
 *** Suppressing further FindPortalSide errors.... ***
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
 Building Faces...done (0)
-Chop Details...
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1120 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\V92\Source\github\AHL2_Amuse\mapsrc\ahl2_amuse_fix.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1003264 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5106 texinfos to 3306
+Reduced 322 texdatas to 280 (14137 bytes to 12487)
+Writing A:\V92\Source\github\AHL2_Amuse\mapsrc\ahl2_amuse_fix.bsp
+5 seconds elapsed
+
+================== VVIS ==================
+
+
+
+
+12 threads
+reading a:\v92\source\github\ahl2_amuse\mapsrc\ahl2_amuse_fix.bsp
+reading a:\v92\source\github\ahl2_amuse\mapsrc\ahl2_amuse_fix.prt
+ 519 portalclusters
+1450 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 630 visible clusters (0.38%)
+Total clusters visible: 167642
+Average clusters visible: 323
+Building PAS...
+Average clusters audible: 509
+visdatasize:69574  compressed from 74736
+writing a:\v92\source\github\ahl2_amuse\mapsrc\ahl2_amuse_fix.bsp
+38 seconds elapsed
+
+================== VRAD ==================
+
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading a:\v92\source\github\ahl2_amuse\mapsrc\ahl2_amuse_fix.bsp
+Error! Invalid VTX file checksum: -166787407, expected 639264992 "models/props_trainstation/Column_Light001b.dx80.vtx"
+Error! Invalid VTX file checksum: 9127647, expected 105483422 "models/props_c17/metalladder001.dx80.vtx"
+Error! Invalid VTX file checksum: -693254030, expected 1444018591 "models/props_foliage/tree_poplar_01.dx80.vtx"
+Error! Invalid VTX file checksum: -1347905822, expected 579475552 "models/props_trainstation/bench_indoor001a.dx80.vtx"
+Error! Invalid VTX file checksum: -920841713, expected 599303881 "models/props_c17/fence01a.dx80.vtx"
+Error! Invalid VTX file checksum: -1830557463, expected -1645341327 "models/props_wasteland/prison_bracket001a.dx80.vtx"
+Error! Invalid VTX file checksum: 905383766, expected -1520422163 "models/props_c17/substation_transformer01b.dx80.vtx"
+Error! Invalid VTX file checksum: -1843821934, expected -1739581038 "models/props_c17/light_cagelight02_on.dx80.vtx"
+Error! Invalid VTX file checksum: -2134694564, expected -161856527 "models/props_c17/concrete_barrier001a.dx80.vtx"
+Error! Invalid VTX file checksum: -1582669916, expected -1393891044 "models/props_pipes/PipeSet32d_Corner128D_001a.dx80.vtx"
+Error! Invalid VTX file checksum: -1077376401, expected -1481665972 "models/props_pipes/destroyedpipes01b.dx80.vtx"
+Error! Invalid VTX file checksum: -200841242, expected -308345868 "models/props_c17/Awning001a.dx80.vtx"
+Error! Invalid VTX file checksum: 1843286576, expected -1543011080 "models/props_foliage/cattails.dx80.vtx"
+Error! Invalid VTX file checksum: 970261510, expected 1225404967 "models/props_c17/Handrail04_long.dx80.vtx"
+Error! Invalid VTX file checksum: -377767999, expected -1210739282 "models/props_c17/Handrail04_corner.dx80.vtx"
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10927 faces
+1 degenerate faces
+4598763 square feet [662221888.00 square inches]
+28 Displacements
+226037 Square Feet [32549336.00 Square Inches]
+10926 patches before subdivision
+191658 patches after subdivision
+589 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16564397, max 1845
+transfer lists: 126.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(304140, 138426, 68155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51929, 18943, 8127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10625, 3638, 1362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2435, 714, 248)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(646, 163, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(191, 39, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(63, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0522 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+354 of 459 (77% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 128/1024         6144/49152    (12.5%) 
+brushes               2708/8192        32496/98304    (33.1%) 
+brushsides           19906/65536      159248/524288   (30.4%) 
+planes               13404/65536      268080/1310720  (20.5%) 
+vertexes             19862/65536      238344/786432   (30.3%) 
+nodes                 3407/65536      109024/2097152  ( 5.2%) 
+texinfos              3306/12288      238032/884736   (26.9%) 
+texdata                280/2048         8960/65536    (13.7%) 
+dispinfos               28/0            4928/0        ( 0.0%) 
+disp_verts            1036/0           20720/0        ( 0.0%) 
+disp_tris             1472/0            2944/0        ( 0.0%) 
+disp_lmsamples        1752/0            1752/0        ( 0.0%) 
+faces                10927/65536      611912/3670016  (16.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8208/65536      459648/3670016  (12.5%) 
+leaves                3536/65536      113152/2097152  ( 5.4%) 
+leaffaces            12992/65536       25984/131072   (19.8%) 
+leafbrushes           4725/65536        9450/131072   ( 7.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            84591/512000     338364/2048000  (16.5%) 
+edges                53133/256000     212532/1024000  (20.8%) 
+LDR worldlights        589/8192        51832/720896   ( 7.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1036/32768       10360/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         21618/65536       43236/131072   (33.0%) 
+cubemapsamples          27/1024          432/16384    ( 2.6%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]    12037872/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       69574/16777216 ( 0.4%) 
+entdata               [variable]      335680/393216   (85.4%) VERY FULL!
+LDR ambient table     3536/65536       14144/262144   ( 5.4%) 
+HDR ambient table     3536/65536       14144/262144   ( 5.4%) 
+LDR leaf ambient     13534/65536      378952/1835008  (20.7%) 
+HDR leaf ambient      3536/65536       99008/1835008  ( 5.4%) 
+occluders               22/0             880/0        ( 0.0%) 
+occluder polygons       17/0             204/0        ( 0.0%) 
+occluder vert ind       73/0             292/0        ( 0.0%) 
+detail props          [variable]           1/1923916  ( 0.0%) 
+dtl prp lght          [variable]           1/3829     ( 0.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/43272    ( 0.0%) 
+pakfile               [variable]       66693/0        ( 0.0%) 
+physics               [variable]     1003264/4194304  (23.9%) 
+physics terrain       [variable]        6218/1048576  ( 0.6%) 
+
+Level flags = 0
+
+Total triangle count: 30126
+Writing a:\v92\source\github\ahl2_amuse\mapsrc\ahl2_amuse_fix.bsp
+2 minutes, 36 seconds elapsed
